@@ -12,7 +12,8 @@
 }
 
 #footer p {
-  opacity: 0.7;
+  margin : 17px;
+  // opacity: 0.7;
 }
 
 #footer a {
@@ -24,5 +25,5 @@
 #footer a:hover {
   /*color: #B3B3B3;*/
   opacity: 1;
-  color: #FFE542;
+  color: $yellow;
 }
