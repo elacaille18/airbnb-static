@@ -5,7 +5,7 @@
   width: 30px;
   color: grey;
 }
-.badge {
+.vignette {
   position: absolute;
   top: -5px;
   right: -5px;
@@ -27,7 +27,7 @@
   background: #32B796;
 }
 .badge-blue {
-  background: #469AE0;
+  background: #469AE0 !important;
 }
 .badge-black {
   background: black;
